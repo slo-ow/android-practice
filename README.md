@@ -1,2 +1,2 @@
-# android-practice
-Practice in 2017, Android Example
+# AndroidSample
+Record the Android sample code to a personal study
